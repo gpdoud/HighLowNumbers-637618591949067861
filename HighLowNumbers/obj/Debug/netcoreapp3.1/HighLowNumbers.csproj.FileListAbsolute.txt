@@ -1,0 +1,13 @@
+C:\repos\HighLowNumbers\HighLowNumbers\bin\Debug\netcoreapp3.1\HighLowNumbers.exe
+C:\repos\HighLowNumbers\HighLowNumbers\bin\Debug\netcoreapp3.1\HighLowNumbers.deps.json
+C:\repos\HighLowNumbers\HighLowNumbers\bin\Debug\netcoreapp3.1\HighLowNumbers.runtimeconfig.json
+C:\repos\HighLowNumbers\HighLowNumbers\bin\Debug\netcoreapp3.1\HighLowNumbers.runtimeconfig.dev.json
+C:\repos\HighLowNumbers\HighLowNumbers\bin\Debug\netcoreapp3.1\HighLowNumbers.dll
+C:\repos\HighLowNumbers\HighLowNumbers\bin\Debug\netcoreapp3.1\HighLowNumbers.pdb
+C:\repos\HighLowNumbers\HighLowNumbers\obj\Debug\netcoreapp3.1\HighLowNumbers.csprojAssemblyReference.cache
+C:\repos\HighLowNumbers\HighLowNumbers\obj\Debug\netcoreapp3.1\HighLowNumbers.AssemblyInfoInputs.cache
+C:\repos\HighLowNumbers\HighLowNumbers\obj\Debug\netcoreapp3.1\HighLowNumbers.AssemblyInfo.cs
+C:\repos\HighLowNumbers\HighLowNumbers\obj\Debug\netcoreapp3.1\HighLowNumbers.csproj.CoreCompileInputs.cache
+C:\repos\HighLowNumbers\HighLowNumbers\obj\Debug\netcoreapp3.1\HighLowNumbers.dll
+C:\repos\HighLowNumbers\HighLowNumbers\obj\Debug\netcoreapp3.1\HighLowNumbers.pdb
+C:\repos\HighLowNumbers\HighLowNumbers\obj\Debug\netcoreapp3.1\HighLowNumbers.genruntimeconfig.cache
